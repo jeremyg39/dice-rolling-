@@ -1,2 +1,2 @@
 # dice-rolling-
-Dice rolling game 
+Dice rolling game I made in python
